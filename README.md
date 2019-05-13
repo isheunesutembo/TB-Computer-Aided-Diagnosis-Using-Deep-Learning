@@ -4,8 +4,10 @@
 
 
 ![TBComputerAIdedDiagnosis](images/Screenshot1.png)
+
 ![TBComputerAIdedDiagnosis](images/Screenshot2.png)
-![TBComputerAIdedDiagnosis](images/Screenshot3.png
+
+![TBComputerAIdedDiagnosis](images/Screenshot3.png)
 
 <p> Make sure you have the following dependencies before running the web app</p>
 
