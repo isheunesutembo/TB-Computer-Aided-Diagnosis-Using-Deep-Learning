@@ -22,9 +22,9 @@
 
 </ul>
 
-<p>Code on how to train the resnet50 and dataset below  </p>
+<p>Resnet Model  </p>
+https://drive.google.com/file/d/16Dkn9dp5EVr8TZTv3Xd9JIXw_A_YmhDg/view?usp=sharing
 
-https://www.kaggle.com/isheunesutembo/tb-resnet50-trannsfer-learning
 
 <p>Paper on ResNet50</p>
 https://arxiv.org/abs/1512.03385
